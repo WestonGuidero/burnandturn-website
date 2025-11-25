@@ -1,8 +1,12 @@
 'use client';
 
+import Navbar from '../components/Navbar';
+
 export default function TermsOfService() {
   return (
-    <div className="container">
+    <>
+      <Navbar />
+      <div className="container">
       <h1>Terms of Service</h1>
       <p className="last-updated">Last Updated: January 24, 2025</p>
 
@@ -380,5 +384,6 @@ export default function TermsOfService() {
         }
       `}</style>
     </div>
+    </>
   );
 }

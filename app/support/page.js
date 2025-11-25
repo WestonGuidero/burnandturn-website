@@ -1,8 +1,12 @@
 'use client';
 
+import Navbar from '../components/Navbar';
+
 export default function Support() {
   return (
-    <div className="container">
+    <>
+      <Navbar />
+      <div className="container">
       <h1>Support & Contact</h1>
       <p className="subtitle">We're here to help! Get in touch with the Burn and Turn team.</p>
 
@@ -362,5 +366,6 @@ export default function Support() {
         }
       `}</style>
     </div>
+    </>
   );
 }

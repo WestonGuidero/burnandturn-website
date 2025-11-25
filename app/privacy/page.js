@@ -1,8 +1,12 @@
 'use client';
 
+import Navbar from '../components/Navbar';
+
 export default function PrivacyPolicy() {
   return (
-    <div className="container">
+    <>
+      <Navbar />
+      <div className="container">
       <h1>Privacy Policy</h1>
       <p className="last-updated">Last Updated: January 24, 2025</p>
 
@@ -307,5 +311,6 @@ export default function PrivacyPolicy() {
         }
       `}</style>
     </div>
+    </>
   );
 }
