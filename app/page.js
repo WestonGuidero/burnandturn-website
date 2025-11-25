@@ -128,11 +128,32 @@ export default function Home() {
           color: #ffffff;
           text-decoration: none;
           font-weight: 500;
-          transition: color 0.3s;
+          padding: 8px 16px;
+          border-radius: 8px;
+          transition: all 0.3s ease;
+          position: relative;
         }
 
         .nav-links a:hover {
           color: #4CAF50;
+          background: rgba(76, 175, 80, 0.1);
+          transform: translateY(-2px);
+        }
+
+        .nav-links a::after {
+          content: '';
+          position: absolute;
+          bottom: 0;
+          left: 50%;
+          width: 0;
+          height: 2px;
+          background: #4CAF50;
+          transition: all 0.3s ease;
+          transform: translateX(-50%);
+        }
+
+        .nav-links a:hover::after {
+          width: 70%;
         }
 
         .main-content {
