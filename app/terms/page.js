@@ -79,7 +79,7 @@ export default function TermsOfService() {
         </ul>
         <p>
           You may delete your account at any time by contacting us at{' '}
-          <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a>.
+          <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a>.
         </p>
       </section>
 
@@ -280,7 +280,7 @@ export default function TermsOfService() {
           If you have questions, concerns, or notices regarding these Terms, please contact us:
         </p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a></li>
+          <li><strong>Email:</strong> <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a></li>
           <li><strong>Support Page:</strong> <a href="/support">burnandturnpoker.com/support</a></li>
         </ul>
       </section>

@@ -72,7 +72,7 @@ export default function Home() {
         <section className="cta">
           <h2>Ready to Improve Your Game?</h2>
           <p>Get notified when the app launches</p>
-          <a href="mailto:wguidero@gmail.com?subject=Notify%20me%20when%20Burn%20and%20Turn%20launches" className="cta-button">
+          <a href="mailto:burnandturnpokertrainer@gmail.com?subject=Notify%20me%20when%20Burn%20and%20Turn%20launches" className="cta-button">
             Contact Us
           </a>
         </section>
@@ -86,7 +86,7 @@ export default function Home() {
         </div>
         <p>&copy; 2025 Burn and Turn Poker Trainer. All rights reserved.</p>
         <p className="contact-email">
-          Contact: <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a>
+          Contact: <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a>
         </p>
       </footer>
 

@@ -129,7 +129,7 @@ export default function PrivacyPolicy() {
         <h3>6.2 Data Deletion</h3>
         <p>
           You have the right to request deletion of your account and all associated data.
-          To request deletion, contact us at <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a>
+          To request deletion, contact us at <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a>
           with the subject line "Account Deletion Request." We will delete your data within 30 days.
         </p>
 
@@ -166,7 +166,7 @@ export default function PrivacyPolicy() {
         <p>
           Our app is intended for users aged 18 and older. We do not knowingly collect personal
           information from children under 18. If you believe we have collected information from
-          a child under 18, please contact us immediately at <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a>.
+          a child under 18, please contact us immediately at <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a>.
         </p>
       </section>
 
@@ -207,7 +207,7 @@ export default function PrivacyPolicy() {
         <h2>11. Contact Us</h2>
         <p>If you have questions or concerns about this Privacy Policy, please contact us:</p>
         <ul>
-          <li><strong>Email:</strong> <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a></li>
+          <li><strong>Email:</strong> <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a></li>
           <li><strong>Support Page:</strong> <a href="/support">burnandturnpoker.com/support</a></li>
         </ul>
       </section>

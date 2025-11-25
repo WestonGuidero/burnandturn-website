@@ -14,7 +14,7 @@ export default function Support() {
             <div>
               <h3>Email Support</h3>
               <p>
-                <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a>
+                <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a>
               </p>
               <p className="note">We typically respond within 24-48 hours</p>
             </div>
@@ -95,7 +95,7 @@ export default function Support() {
           <h3>How do I delete my account?</h3>
           <p>
             To delete your account and all associated data, please email us at{' '}
-            <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a> with the subject line
+            <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a> with the subject line
             "Account Deletion Request." We will process your request within 30 days.
           </p>
         </div>
@@ -137,7 +137,7 @@ export default function Support() {
           Found a bug? Have an idea for a new feature? We'd love to hear from you!
         </p>
         <p>
-          Email us at <a href="mailto:wguidero@gmail.com">wguidero@gmail.com</a> with:
+          Email us at <a href="mailto:burnandturnpokertrainer@gmail.com">burnandturnpokertrainer@gmail.com</a> with:
         </p>
         <ul>
           <li><strong>Bug Reports:</strong> Include device info, steps to reproduce, and screenshots if possible</li>
