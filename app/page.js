@@ -127,33 +127,21 @@ export default function Home() {
         .nav-links a {
           color: #ffffff;
           text-decoration: none;
-          font-weight: 500;
-          padding: 8px 16px;
-          border-radius: 8px;
+          font-weight: 600;
+          padding: 10px 20px;
+          border-radius: 20px;
+          background: rgba(255, 255, 255, 0.05);
+          border: 1px solid rgba(255, 255, 255, 0.1);
           transition: all 0.3s ease;
-          position: relative;
+          backdrop-filter: blur(10px);
         }
 
         .nav-links a:hover {
-          color: #4CAF50;
-          background: rgba(76, 175, 80, 0.1);
+          color: #ffffff;
+          background: linear-gradient(135deg, #4CAF50, #66BB6A);
+          border-color: #4CAF50;
           transform: translateY(-2px);
-        }
-
-        .nav-links a::after {
-          content: '';
-          position: absolute;
-          bottom: 0;
-          left: 50%;
-          width: 0;
-          height: 2px;
-          background: #4CAF50;
-          transition: all 0.3s ease;
-          transform: translateX(-50%);
-        }
-
-        .nav-links a:hover::after {
-          width: 70%;
+          box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
         }
 
         .main-content {
